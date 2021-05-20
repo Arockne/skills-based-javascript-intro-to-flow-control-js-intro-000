@@ -5,7 +5,7 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-
+  return basicTeenager();
 }
 
 function ageChecker(age) {
